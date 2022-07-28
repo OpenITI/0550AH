@@ -1,7 +1,7 @@
 00#AUTH#URI######: 0544QadiCiyad
 10#AUTH#ISM####AR: ʿIyāḍ
 10#AUTH#KUNYA##AR: Abū al-Faḍl
-10#AUTH#LAQAB##AR:
+10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. Mūsá b. ʿIyāḍ
 10#AUTH#NISBA##AR: al-Yaḥṣubī al-Sabtī
 10#AUTH#SHUHRA#AR: al-Qāḍī ʿIyāḍ
@@ -14,7 +14,4 @@
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#BOOK#COMMENT##: EI2: "b. ʿIyād b. ʿAmrūn al-Yaḥṣubī al-Sabtī al-Ḳāḍī (476/1088-544/1149) was one of the most celebrated figures of Mālikism in the Muslim West.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3715
