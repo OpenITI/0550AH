@@ -14,3 +14,6 @@
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#BOOK#COMMENT##: EI2: "b. ʿIyād b. ʿAmrūn al-Yaḥṣubī al-Sabtī al-Ḳāḍī (476/1088-544/1149)
+    was one of the most celebrated figures of Mālikism in the Muslim West."
+    (http://dx.doi.org/10.1163/1573-3912_islam_SIM_3715)
