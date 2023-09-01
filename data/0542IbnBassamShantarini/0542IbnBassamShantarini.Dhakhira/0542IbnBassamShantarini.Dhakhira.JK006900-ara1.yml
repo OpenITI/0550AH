@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://archive.org/details/zakhera_mahasen_jazeera
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The pipe symbols (|) inside the text signify the end
-    of paragraphs in the PDF and must be deleted.
+        of paragraphs in the PDF and must be deleted.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-06-16
-90#VERS#ISSUES###: RANDOM_CHARS, PARATEXT
+90#VERS#ISSUES###: RANDOM_CHARS, PARATEXT, PRIMARY_VERSION, CLEANED_VERSION

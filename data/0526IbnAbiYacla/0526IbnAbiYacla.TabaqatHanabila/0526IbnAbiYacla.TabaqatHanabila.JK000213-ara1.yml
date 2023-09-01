@@ -5,11 +5,14 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770050084
 80#VERS#LINKS####: https://archive.org/details/turiat
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+        use consistently)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    NOTE OF THE REVIEWER (HRH): Untagged headers tagged. Subsections of biographical
-    entries tagged as #~:section:. Women’s biographies tagged. PARATEXT added.
-    Editorial removed. 2- A different edition is accessible here:
-    https://archive.org/details/abe2829001
+        NOTE OF THE REVIEWER (HRH): Untagged headers tagged. Subsections of biographical
+        entries tagged as #~:section:. Women’s biographies tagged. PARATEXT added.
+        Editorial removed. 2- A different edition is accessible here:
+        https://archive.org/details/abe2829001
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: RANDOM_CHARS
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

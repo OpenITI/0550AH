@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://ia802707.us.archive.org/33/items/FP52625/52625.pdf
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The editorial sections inside the text are duplicated titles that need to be deleted.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-06-26
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

@@ -3,10 +3,13 @@
 00#VERS#URI######: 0533IbnBajja.RasailFalsafiyya.Shamela0008301-ara1
 80#VERS#BASED####: NO_DATA_IN_METADATA
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/929469368
-80#VERS#LINKS####:
-    https://www.noorlib.ir/View/fa/Book/BookView/Image/11623
+80#VERS#LINKS####: 
+        https://www.noorlib.ir/View/fa/Book/BookView/Image/11623
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The link in VERS#LINKS leads you to a payment-based
-    website and you must have an account to see the PDF.
+        website and you must have an account to see the PDF.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-06-07
-90#VERS#ISSUES###: PARATEXT, HTML_TAGS
+90#VERS#ISSUES###: PARATEXT, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION
