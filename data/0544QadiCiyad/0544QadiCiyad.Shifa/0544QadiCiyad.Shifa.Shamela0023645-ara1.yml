@@ -1,9 +1,9 @@
 00#VERS#CLENGTH##: 596347
 00#VERS#LENGTH###: 149648
-00#VERS#URI######: 0544QadiCiyad.ShifaBiTacrif.Shamela0023645-ara1
+00#VERS#URI######: 0544QadiCiyad.Shifa.Shamela0023645-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/891849964
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/891849964
-80#VERS#LINKS####: 
+80#VERS#LINKS####:
     https://www.noorlib.ir/View/fa/Book/BookView/Image/3015
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The link in VERS#LINKS that I have used for collation
@@ -18,6 +18,7 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0550AH/pre-clean/data/0544QadiCiyad/0544QadiCiyad.ShifaBiTacrif/0544QadiCiyad.ShifaBiTacrif.Shamela0023645-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0550AH/pre-
+    clean/data/0544QadiCiyad/0544QadiCiyad.ShifaBiTacrif/0544QadiCiyad.ShifaBiTacrif.Shamela0023645-ara1.completed
 90#VERS#DATE#####: 2020-06-25
 90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION
