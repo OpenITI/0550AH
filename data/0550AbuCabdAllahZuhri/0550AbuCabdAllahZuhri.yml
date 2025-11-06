@@ -13,18 +13,19 @@
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q4703386
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.265:
-    "An Andalusian, about whose biography our sources do not report anything. 
+    "An Andalusian, about whose biography our sources do not report anything.
     According to his own accounts, he lived between 532/1137 and 549/1154
-    in Saragaossa, Granada, Valencia, Tortosa, Cadiz and Almería. 
+    in Saragaossa, Granada, Valencia, Tortosa, Cadiz and Almería.
     He possibly died around 550/1155. Most importantly, he has reworked the
     the geography that about 70 scholars had created for the caliph al-Ma'mun,
     ca. 300 year earlier, and which was available to him in the Geography of
     a certain al-Fazārī. (...) It is difficult to define the relationship
     between the extant work of Abu ʿAbd Allāh al-Zuhrī and the Geography of
     al-Ma'mun's geographers. It is neither an extract, nor a revision in the
-    real sense of the word. Looking at the entire book and the author's way 
+    real sense of the word. Looking at the entire book and the author's way
     of citation gives the impression that he wanted to create a compilation,
     based in the first place on the Ma'mun work. He did not have a special
     sense for uniformity in relation to the selection of his sources and the

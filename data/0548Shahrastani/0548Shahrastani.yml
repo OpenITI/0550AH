@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0548-SHC-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q1050887
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Abu ’l-Fatḥ Muḥammad b. ʿAbd al-Karīm b. Aḥmad, Tād̲j̲
     al-Dīn, thinker and historian of religious and philosophical doctrines, who

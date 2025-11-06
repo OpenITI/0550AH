@@ -8,6 +8,7 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
@@ -20,7 +21,7 @@
     a certain al-Fazārī. (...) It is difficult to define the relationship
     between the extant work of Abu ʿAbd Allāh al-Zuhrī and the Geography of
     al-Ma'mun's geographers. It is neither an extract, nor a revision in the
-    real sense of the word. Looking at the entire book and the author's way 
+    real sense of the word. Looking at the entire book and the author's way
     of citation gives the impression that he wanted to create a compilation,
     based in the first place on the Ma'mun work. He did not have a special
     sense for uniformity in relation to the selection of his sources and the
